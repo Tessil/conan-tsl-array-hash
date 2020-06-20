@@ -3,7 +3,7 @@ import os
 
 class TslArrayHashConan(ConanFile):
     name = "tsl-array-hash"
-    version = "0.7.0"
+    version = "0.7.1"
     license = "MIT"
     description = "C++ implementation of a fast and memory efficient hash map and hash set specialized for strings."
     homepage = "https://github.com/Tessil/array-hash"
